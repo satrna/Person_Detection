@@ -3,3 +3,4 @@ gradio
 ultralytics
 torch
 numpy
+fiftyone
